@@ -58,7 +58,7 @@ function getCurrentWeather(cityName){
             
             
             
-            $('#temp').text( "Tempereture: " + data.main.temp + "°F");
+            $('#temp').text( "Tempurature: " + data.main.temp + "°F");
             $('#hum').text( "Humidity: " + data.main.humidity + "%");
             $('#windSpeed').text( "Wind Speed: " + data.wind.speed + "MPH");
 
