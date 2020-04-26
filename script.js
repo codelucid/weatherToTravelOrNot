@@ -41,7 +41,7 @@ function getCurrentWeather(cityName){
 
     $.ajax({
           type: "GET",
-          url: `http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}&units=imperial`,
+          url: `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}&units=imperial`,
           dataType: "json",
           success: function(data) {
             console.log(data)
@@ -77,7 +77,7 @@ function getUV(lon, lat, cityName){
 
     $.ajax({
         type: "GET",
-        url: `http://api.openweathermap.org/data/2.5/uvi?appid=${apiKey}&lat=${lat}&lon=${lon}`,
+        url: `https://api.openweathermap.org/data/2.5/uvi?appid=${apiKey}&lat=${lat}&lon=${lon}`,
         dataType: "json",
         success: function(data) {
           console.log(data)
@@ -106,7 +106,7 @@ function getUV(lon, lat, cityName){
 function get5day(cityName){
     $.ajax({
         type: "GET",
-        url: `http://api.openweathermap.org/data/2.5/forecast?q=${cityName}&appid=${apiKey}&units=imperial`,
+        url: `https://api.openweathermap.org/data/2.5/forecast?q=${cityName}&appid=${apiKey}&units=imperial`,
         dataType: "json",
         success: function(data) {
           console.log(data)
