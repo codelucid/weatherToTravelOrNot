@@ -1,4 +1,4 @@
-# "weather"ToTravelOrNot
+# "Weather"ToTravelOrNot
 
 ![GitHub license](https://img.shields.io/badge/license-None-brightgreen)
 
