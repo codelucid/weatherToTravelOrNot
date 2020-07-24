@@ -30,6 +30,7 @@ This is what the user needs to know about using the repo:
 ![Date and Time](/stepTwo.png)
 - Where are you going to travel? Search the city!
 ![Search](/stepThree.png)
+- Review the search results for your travel plans!
 
 ## License  
 
