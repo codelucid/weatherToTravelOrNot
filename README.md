@@ -31,7 +31,7 @@ This is what the user needs to know about using the repo:
 - Where are you going to travel? Search the city!
 ![Search](/stepThree.png)
 - Review the search results for your travel plans!
-
+![Review](/stepFour.png)
 
 ## License  
 
