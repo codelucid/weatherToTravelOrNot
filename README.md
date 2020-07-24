@@ -24,7 +24,7 @@ To install necessary dependencies, run the following command:
 ## Usage  
 
 This is what the user needs to know about using the repo:
-Contact Codelucid for details, but always pull first and commit often!  
+  
 
 ## License  
 
