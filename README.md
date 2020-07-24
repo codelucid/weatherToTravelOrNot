@@ -26,6 +26,7 @@ To install necessary dependencies, run the following command:
 This is what the user needs to know about using the repo:
 - Curious about the weather in a city?
 ![Curious](/stepOne.png)
+- Enjoy the Date and Time feature for your planning!
 
 ## License  
 
