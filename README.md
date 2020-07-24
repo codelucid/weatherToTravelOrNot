@@ -33,6 +33,7 @@ This is what the user needs to know about using the repo:
 - Review the search results for your travel plans!
 ![Review](/stepFour.png)
 - Note the current forecast!
+![Current](/stepFive.png)
 
 ## License  
 
