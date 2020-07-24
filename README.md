@@ -35,6 +35,7 @@ This is what the user needs to know about using the repo:
 - Note the current forecast!
 ![Current](/stepFive.png)
 - Enjoy the Five Day forecast, too!
+![Five Day](/stepSix.png)
 
 ## License  
 
