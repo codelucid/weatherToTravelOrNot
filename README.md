@@ -37,6 +37,7 @@ This is what the user needs to know about using the repo:
 - Enjoy the Five Day forecast, too!
 ![Five Day](/stepSix.png)
 - Searched City is added to Local Storage!
+![Local Storage](/stepSeven.png)
 
 ## License  
 
