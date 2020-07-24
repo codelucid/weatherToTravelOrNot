@@ -32,6 +32,7 @@ This is what the user needs to know about using the repo:
 ![Search](/stepThree.png)
 - Review the search results for your travel plans!
 
+
 ## License  
 
 The license for this project:
