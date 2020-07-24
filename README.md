@@ -34,9 +34,9 @@ This is what the user needs to know about using the repo:
 ![Review](/stepFour.png)
 - Note the current forecast!
 ![Current](/stepFive.png)
-- Enjoy the Five Day forecast, too!
+- Enjoy the Five Day Forecast, too!
 ![Five Day](/stepSix.png)
-- Searched City is added to Local Storage!
+- Searched city is added to Local Storage!
 ![Local Storage](/stepSeven.png)
 - Next city on your travel plans
 ![Next City](/stepEight.png)
