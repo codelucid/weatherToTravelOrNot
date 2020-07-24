@@ -42,6 +42,7 @@ This is what the user needs to know about using the repo:
 ![Next City](/stepEight.png)
 - Final city on your travel plans
 ![Final City](/stepNine.png)
+- Searched cities are persistant! Click to check their weather, again!
 
 ## License  
 
