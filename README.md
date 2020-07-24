@@ -28,6 +28,7 @@ This is what the user needs to know about using the repo:
 ![Curious](/stepOne.png)
 - Enjoy the Date and Time feature for your planning!
 ![Date and Time](/stepTwo.png)
+- Where are you going to travel? Search the city!
 
 ## License  
 
