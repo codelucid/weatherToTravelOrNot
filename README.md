@@ -40,6 +40,7 @@ This is what the user needs to know about using the repo:
 ![Local Storage](/stepSeven.png)
 - Next city on your travel plans
 ![Next City](/stepEight.png)
+- Final city on your travel plans
 
 ## License  
 
