@@ -39,6 +39,7 @@ This is what the user needs to know about using the repo:
 - Searched City is added to Local Storage!
 ![Local Storage](/stepSeven.png)
 - Next city on your travel plans
+![Next City](/stepEight.png)
 
 ## License  
 
