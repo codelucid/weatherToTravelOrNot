@@ -38,6 +38,7 @@ This is what the user needs to know about using the repo:
 ![Five Day](/stepSix.png)
 - Searched City is added to Local Storage!
 ![Local Storage](/stepSeven.png)
+- Next city on your travel plans
 
 ## License  
 
