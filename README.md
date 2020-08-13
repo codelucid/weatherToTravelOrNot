@@ -1,6 +1,6 @@
 # "Weather"ToTravelOrNot
 
-![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) ![GitHub license](https://img.shields.io/badge/Skill-JS-red)
+![GitHub license](https://img.shields.io/badge/Skill-HTML-brightgreen) ![GitHub license](https://img.shields.io/badge/Skill-CSS-blue) ![GitHub license](https://img.shields.io/badge/Skill-JavaScript-red)
 
 ## Description  
 
